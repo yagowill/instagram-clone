@@ -168,6 +168,7 @@ body {
     font-size: .8rem;
     margin-top: 18px;
     color: #385185;
+    cursor: pointer;
 }
 .group:nth-child(2) {
     margin-top: 18px;
@@ -175,6 +176,7 @@ body {
 
 .link-blue {
     color: #0095f6;
+    cursor: pointer;
 }
 
 .get-the-app {
